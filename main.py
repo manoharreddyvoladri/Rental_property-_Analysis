@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 
-# The code below will not work for the live website because the HTML has changed.
 # For scraping the live site see: https://gist.github.com/TheMuellenator/941a8d6bfc555dbc7c939d2c3720a87d
 # response = requests.get("https://news.ycombinator.com/")
 
